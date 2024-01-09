@@ -7,3 +7,7 @@ Modeling Approach: Utilized a Gaussian Process to model the underlying distribut
 Constraints Handling: Direct sampling of random points was restricted due to predefined constraints. Violating these constraints resulted in negative rewards.
 Optimization Strategy: The primary goal was to develop an effective acquisition function that adeptly balanced exploitation and exploration.
 Implemented Solution: Employed the Upper Confidence Bound function, enhanced with Lagrangian relaxation, to navigate the optimization landscape efficiently while adhering to the constraints.
+
+## Task description
+![description 1](https://github.com/calenwu/bayesian_optimization_acquisition_function/blob/main/description_1.png?raw=true)
+![description 2](https://github.com/calenwu/bayesian_optimization_acquisition_function/blob/main/description_2.png?raw=true)
